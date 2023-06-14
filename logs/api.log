@@ -1,0 +1,10 @@
+2023-06-13 01:53:31,103 WARN a.t.UserTests2 [main] ------User created properly-------
+2023-06-13 01:53:32,749 ERROR a.t.UserTests2 [main] ------Deleting completed-------
+2023-06-13 02:15:48,529 WARN a.t.UserTests [main] ------User created properly-------
+2023-06-13 02:15:50,098 ERROR a.t.UserTests [main] ------Deleting completed-------
+2023-06-13 03:10:36,284 WARN a.t.UserTests [main] ------User created properly-------
+2023-06-13 03:10:37,882 ERROR a.t.UserTests [main] ------Deleting completed-------
+2023-06-13 03:11:08,132 WARN a.t.UserTests [main] ------User created properly-------
+2023-06-13 03:11:09,717 ERROR a.t.UserTests [main] ------Deleting completed-------
+2023-06-13 03:20:44,094 WARN a.t.UserTests [main] ------User created properly-------
+2023-06-13 03:20:45,605 ERROR a.t.UserTests [main] ------Deleting completed-------
