@@ -36,7 +36,7 @@ public class DDTests {
 		
 		Response res = UserEndPoints.readUser(userName);
 		System.out.println(userName);
-		res.then().log().all();
+		res.then().log().all(); 
 		Assert.assertEquals(res.getStatusCode(),200);
 		//System.out.println(res.jsonPath().getString("message"));
 		
